@@ -2,13 +2,16 @@
 Gatxs Help Gatxs is an app to build bridges, where new people to leipzig can post help requests for local german speakers to give them a hand with bureaucracy.
 
 team members:
-Kika, Laura, Adam, Regina 
+- Kika
+- Laura
+- Adam
+- Regina 
 
 ## tech stack 
-Typescript
-TailwindCSS
-Next.js
-Prisma datatbase (Postgres / Vercel)
+- Typescript
+- TailwindCSS
+- Next.js
+- Prisma datatbase (Postgres / Vercel)
 
 ## Running the app
 
